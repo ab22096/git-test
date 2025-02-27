@@ -3,6 +3,10 @@ class Calculator:
     def add(a, b):
         return a + b
 
+    @staticmethod
+    def sub(a, b):
+        return a - b
+
 if __name__ == "__main__":
     numa = 4
     numb = 2
