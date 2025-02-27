@@ -16,3 +16,5 @@ if __name__ == "__main__":
     numb = 2
 
     print(Calculator.add(numa, numb))
+    print(Calculator.sub(numa, numb))
+    print(Calculator.mul(numa, numb))
