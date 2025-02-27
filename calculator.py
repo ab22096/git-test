@@ -7,6 +7,10 @@ class Calculator:
     def sub(a, b):
         return a - b
 
+    @staticmethod
+    def mul(a, b):
+        return a * b
+
 if __name__ == "__main__":
     numa = 4
     numb = 2
